@@ -8,3 +8,9 @@
 1) ***Front-End*** : HTML, CSS and JavaScript  
 2) ***Back-End*** : Python Django  
 3) ***Library*** : BeautifulSoup (For Scraping)
+
+## Screenshots:  
+![Home Page](https://github.com/shubhamjain31/Weather_App/blob/main/Screenshots/Image(1).jpg)  
+
+
+![Output](https://github.com/shubhamjain31/Weather_App/blob/main/Screenshots/Image(2).jpg)  
